@@ -2,3 +2,7 @@
 ---
 
 The management system for warehouse
+Technologies:
+- Java
+- AspectJ
+- MS SQL
