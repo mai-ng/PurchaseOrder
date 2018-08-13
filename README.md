@@ -5,8 +5,11 @@ This case study involves two classes PurchaseOrder and Supplier, which are linke
 #Security Rules:
 
 Rule 1. Only Managers are authorized to approve a purchase order (operation approve)
+
 Rule 2. Only Staffs are permitted to make the creation and the reception of a purchase order (operations create and receive)
+
 Rule 3. The creation and the reception of a purchase order should be executed by two different persons.
+
 ---
 Technologies:
 - Java
